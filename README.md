@@ -1,16 +1,16 @@
-House-Price-Prediction
-Machine Learning project for predicting house prices
+- House-Price-Prediction
+- Machine Learning project for predicting house prices
 
-Objective
+- Objective:
 Predict house prices using machine learning models
 
-Models used
+- Models used:
 Linear Regression
 Random Forest
-Results
+- Results:
 Linear Regression R² ≈ 0.75
 Random Forest R² ≈ 0.96
-What I learned
+- What I learned:
 Regression basics
 Model evaluation (MSE, R²)
 Overfitting concept

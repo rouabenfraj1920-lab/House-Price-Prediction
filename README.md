@@ -15,3 +15,6 @@ Regression basics
 Model evaluation (MSE, R²)
 Overfitting concept
 Tree-based models
+- 2 models:
+  one with dataset clean
+  one with uncleaned dataset and i take the chance to deal with it 
